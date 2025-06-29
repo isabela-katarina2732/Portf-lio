@@ -1,2 +1,3 @@
 # Portf-lio
-Simulador de Investimentos, que permite ter uma visão ampla de quanto seu dinheiro esta rendendo ao mês e qual será o retorno previsto ao longo dos anos e como distribuir seu investimento de acordo com o seu perfil de investidor.
+Este simulador de investimentos foi desenvolvido como projeto de conclusão do curso de Excel com IA da DIO.
+O Simulador, foi criado apartir de uma planilha excel, utilizando fórmulas automatizadas, como PROCV, CONT.SE, CONT.SES, tabelas formatadas de fácil compreensão e utilização; nele é possivel organizar os investimentos de acordo com seu perfil de investidor, considerando a divisão de percentual a ser investido em cada setor, bem como estipular quantos anos pretende investir, qual o valor mensal e apartir destas informações é possível obter uma base do valor de patrimonio acumalado ao final do periodo e quanto de dividentos mensais receberá aproximadamente.
